@@ -1,0 +1,23 @@
+{
+  "name": "Bbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SushantWebDev/Bbuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SushantWebDev/Bbuzz/issues"
+  },
+  "homepage": "https://github.com/SushantWebDev/Bbuzz#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
