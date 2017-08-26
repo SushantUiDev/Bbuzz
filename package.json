@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SushantWebDev/Bbuzz.git"
+    "url": "git+https://github.com/SushantUiDev/Bbuzz.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SushantWebDev/Bbuzz/issues"
+    "url": "https://github.com/SushantUiDev/Bbuzz/issues"
   },
-  "homepage": "https://github.com/SushantWebDev/Bbuzz#readme",
+  "homepage": "https://github.com/SushantUiDev/Bbuzz#readme",
   "dependencies": {
     "gulp": "^3.9.1"
   }
